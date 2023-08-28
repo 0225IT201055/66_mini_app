@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="main_page_body">
+    <div id="main_page_body" style="color: blue;">
         <%@ include file="header.jsp" %>
     
     <div id="menu"></div>
